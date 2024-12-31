@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+1st year student at unsw cs!
+* currently working on a student portal and resource development
+* proficient in LaTeX and web development
+* i can't think of much else to put here right now
