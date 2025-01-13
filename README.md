@@ -15,7 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-soon-to-be 1st year cs student at unsw!
-* currently working on a student portal and resource development
-* proficient in LaTeX and web development
-* i can't think of much else to put here right now
+aimless meaningless contributions to reinvent the wheel for the nth time
