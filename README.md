@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-aimless meaningless contributions to reinvent the wheel for the nth time
+we know more than we can tell
